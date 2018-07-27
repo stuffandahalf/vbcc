@@ -12,3 +12,4 @@ zumax tu_max[MAX_TYPE + 1];
 
 char *reg_names[MAXR + 1] = { "A", "B", "X", "Y" };
 zmax regsize[MAXR + 1];/* = { 1, 1, 2, 2 };*/
+
